@@ -2,7 +2,6 @@
 #### I am Electric Electronics Engineer
 I am interested in software. After learning Python and SQL, I am trying to learn Java, CSS, HTML.
 
-Skills: Python / SQL / JS / HTML / CSS
 
 - 🔭 I’m currently working on JS / CSS /HTML 
 
